@@ -1,2 +1,2 @@
 # YOLO-SDD
-This is the official implementation of YOLO-SDD. The source code will be open.
+This is the official implementation of YOLO-SDD. The code will soon be released.
